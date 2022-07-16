@@ -1,4 +1,4 @@
-# python-quantum-information-labs
+# quantum-information-labs-python
 
 This is the Python code for functional quantum circuits, their test simulations, and the results. These programs were developed in a virtual Jupyter Notebook environment using the Quiskit kernel. <br />
 Run your own labs here: https://quantum-computing.ibm.com/
