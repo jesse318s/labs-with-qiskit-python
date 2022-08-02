@@ -39,7 +39,7 @@ Run your own labs here: https://quantum-computing.ibm.com/
 <br />
 
 - Circuit Lab 4 Description:
-  - 
+  - A parameterized quantum circuit which maps the outcome of the qubits to classical bits. The qubit outcomes are plotted via theta range.
 - Circuit Lab 4 Results:
   - Quantum Circuit: (https://github.com/jesse318s/python-quantum-information-labs/blob/main/LabImages/CircuitLab4Image1.webp?raw=true)
   - Theta Range: (https://github.com/jesse318s/python-quantum-information-labs/blob/main/LabImages/CircuitLab4Image2.webp?raw=true)
