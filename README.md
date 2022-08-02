@@ -17,21 +17,21 @@ Run your own labs here: https://quantum-computing.ibm.com/
 <br />
 
 - Circuit Lab 1 Description:
-  - 
+  - A basic quantum circuit which maps the outcome of the qubits to classical bits.
 - Circuit Lab 1 Results: 
   - Counts: {'001': 237, '010': 267, '000': 268, '111': 252}
 
 <br />
 
 - Circuit Lab 2 Description:
-  - 
+  - A basic quantum circuit which maps the outcome of the qubits to classical bits.
 - Circuit Lab 2 Results: 
   - Counts: {'0000': 252, '0010': 252, '0001': 254, '0111': 266}
 
 <br />
 
 - Circuit Lab 3 Description:
-  - 
+  - A basic quantum circuit which maps the outcome of the qubits to classical bits. The qubit outcomes are plotted via histogram, and the qubit states are plotted via     q-sphere.
 - Circuit Lab 3 Results: 
   - Histogram: (https://github.com/jesse318s/python-quantum-information-labs/blob/main/LabImages/CircuitLab3Image1.webp?raw=true)
   - State Q-Sphere: (https://github.com/jesse318s/python-quantum-information-labs/blob/main/LabImages/CircuitLab3Image2.webp?raw=true)
