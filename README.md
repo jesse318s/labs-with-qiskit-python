@@ -47,6 +47,6 @@ Run your own labs here: https://quantum-computing.ibm.com/
 <br />
 
 - Circuit Lab RNG Description:
-  - 
+  - A simple random number generating quantum circuit, which is run on the ibmq_qasm_simulator.
 - Circuit Lab RNG Results:
   - Counts: {'1000': 1}
